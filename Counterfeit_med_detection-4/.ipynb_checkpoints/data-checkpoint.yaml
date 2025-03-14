@@ -1,0 +1,13 @@
+names:
+  - authentic
+  - counterfeit
+nc: 2
+train: counterfeit_med_detection-4/train/images
+val: counterfeit_med_detection-4/valid/images
+test: counterfeit_med_detection-4/test/images
+roboflow:
+  license: CC BY 4.0
+  project: counterfeit_med_detection
+  url: https://universe.roboflow.com/harshini-t-g-r/counterfeit_med_detection/dataset/4
+  version: 4
+  workspace: harshini-t-g-r

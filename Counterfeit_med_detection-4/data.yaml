@@ -1,0 +1,6 @@
+train: /Users/mercy/Desktop/FTL/Hackathon - Fake Drug Detection/counterfeit_med_detection-4/train/images
+val: /Users/mercy/Desktop/FTL/Hackathon - Fake Drug Detection/counterfeit_med_detection-4/valid/images
+test: /Users/mercy/Desktop/FTL/Hackathon - Fake Drug Detection/counterfeit_med_detection-4/test/images
+
+nc: 2
+names: ["authentic", "counterfeit"]
